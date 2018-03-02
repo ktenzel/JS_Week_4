@@ -22,16 +22,17 @@ Videos 7-11 are an overview of all the services provided by AWS.
 
 
 |Service|Sub-Service|Sub Service Description|
+| ------------- |:-------------:| -----:|
 |Compute|EC2 (Elastic Compute Cloud)|Create and manage virtual machines and servers in a cloud based environment.|
-||EC2 Container Service| Create and manage applications with a cloud environment without restarting or effecting a virtual machine.|
-||LightSail|Virtual private servers for hosting data, can be used to host websites connected with a domain.|
-||EC2 BeanStalk|Upload code for deployment.  Beanstalk understands Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker.|
-||Lamda|Scales uploaded code of further load handling.|
-||Batch|Manages batch applications across the AWS platform.|
+| |EC2 Container Service| Create and manage applications with a cloud environment without restarting or effecting a virtual machine.|
+| |LightSail|Virtual private servers for hosting data, can be used to host websites connected with a domain.|
+| |EC2 BeanStalk|Upload code for deployment.  Beanstalk understands Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker.|
+| |Lamda|Scales uploaded code of further load handling.|
+| |Batch|Manages batch applications across the AWS platform.|
 |Storage|S3|Simple Storage Service|
-||EFS|Network storage that can be accessed by virtual machines.|
-||Glacier|Cloud storage solution, similar to Dropbox but you are able to manage the security.|
-||Storage Gateway|Hybrid cloud storage for backup and disaster recovery, large less frequently accessed data.|
+| |EFS|Network storage that can be accessed by virtual machines.|
+| |Glacier|Cloud storage solution, similar to Dropbox but you are able to manage the security.|
+| |Storage Gateway|Hybrid cloud storage for backup and disaster recovery, large less frequently accessed data.|
 
 ## Specifications
 
