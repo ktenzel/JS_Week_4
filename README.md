@@ -18,6 +18,9 @@ https://www.udemy.com/aws-certified-developer-associate/learn/v4/overview
 The learning is to prepare students for taking the AWS Developer Certification.
 Videos 1-6 (about 40-50 minutes) go over the setup of the certification and history of AWS as well as the structure of the learning.
 Videos 7-11 are an overview of all the services provided by AWS.
+
+
+
 |Service|Sub-Service|Sub Service Description|
 |Compute  |EC2 (Elastic Compute Cloud)  | Create and manage virtual machines and servers in a cloud based environment.|
 |         |EC2 Container Service        | Create and manage applications with a cloud environment without restarting or effecting a virtual machine.|
