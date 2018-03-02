@@ -34,12 +34,9 @@ Videos 7-11 are an overview of all the services provided by AWS.
 | |Glacier|Cloud storage solution, similar to Dropbox but you are able to manage the security.|
 | |Storage Gateway|Hybrid cloud storage for backup and disaster recovery, large less frequently accessed data.|
 
-## Specifications
-
-## Known Bugs
-
-## Future additions
-
 ## Technologies Used
+Amazon Web Services
 
 ### License
+I do not own any of this information, notes were taken from Udemy course https://www.udemy.com/aws-certified-developer-associate/learn/v4/overview
+.
