@@ -22,7 +22,7 @@ Videos 7-11 are an overview of all the services provided by AWS.
 
 
 |Service|Sub-Service|Sub Service Description|
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| :----- |
 |Compute|EC2 (Elastic Compute Cloud)|Create and manage virtual machines and servers in a cloud based environment.|
 | |EC2 Container Service| Create and manage applications with a cloud environment without restarting or effecting a virtual machine.|
 | |LightSail|Virtual private servers for hosting data, can be used to host websites connected with a domain.|
