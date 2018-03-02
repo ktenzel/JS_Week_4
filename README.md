@@ -11,12 +11,13 @@ There are two areas that I'd like to spend time working review of terminology an
 
 ## AWS learning
 It was recommended to use acloud.guru for learning AWS, however I found that Udemy has ported acloud's lessons to their site.
-($99) https://acloud.guru/learn/aws-certified-developer-associate
-($11.99 *at the time) https://www.udemy.com/aws-certified-developer-associate/learn/v4/overview
+https://acloud.guru/learn/aws-certified-developer-associate
+https://www.udemy.com/aws-certified-developer-associate/learn/v4/overview
 
 ## Lessons
 The learning is to prepare students for taking the AWS Developer Certification.
 Videos 1-6 (about 40-50 minutes) go over the setup of the certification and history of AWS as well as the structure of the learning.
+Videos 7-11 are an overview of all the services provided by AWS.
 
 ## Specifications
 
