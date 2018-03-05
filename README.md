@@ -30,6 +30,17 @@ Videos 7-11 are an overview of all the services provided by AWS.
 | |EFS|Network storage that can be accessed by virtual machines.|
 | |Glacier|Cloud storage solution, similar to Dropbox but you are able to manage the security.|
 | |Storage Gateway|Hybrid cloud storage for backup and disaster recovery, large less frequently accessed data.|
+|Database|RDS|Relational Database|
+| |Dynamo DB|NoSQL DB, similar to Google Firebase|
+| |ElastiCache |Helps build in-memory data stores.|
+| |RedShift|Large database warehouse that uses SQL.|
+|Migration|Migration Hub||
+| |AWS Migration Hub| Helps Developers Discover, Migrate and Track data and services in AWS.|
+| |Application Discovery Service| Track and discover data needs as you migrate to AWS.|
+| |Database Migration Service| Database specific helper.|
+| |Server Migration Service| Helps Network and Server admins migrate from physical servers to AWS cloud solutions. |
+| |Snowball| This is a physical device that is sent if bandwidth or security issues prohibit large transfers of data.|
+
 
 ## Technologies Used
 Amazon Web Services
