@@ -46,8 +46,14 @@ Videos 7-11 are an overview of all the services provided by AWS.
 | |API Gateway | Allows devs. to monitor their APIs. |
 | |Direct Connect | Creates a dedicated connection from a local network to AWS.|
 
+
+There are several other sections I have in my written notes that I will continue to transcribe to this readme. I was able to make it to the Identity and Access Management Lab where I started learning about making users in AWS.  
+
 ## Technologies Used
 Amazon Web Services
+
+##Future use
+With the upcoming group project I'm hoping to use AWS Dynamo DB to replace Firebase, build users with IAM and use AWS's mapping service for working with locations. Further more as we move into Android, AWS's Mobile Hub will really help.  I'm also interested in potentially using Alexa to integrate with a possible capstone project.   
 
 ### License
 I do not own any of this information, notes were taken from Udemy course https://www.udemy.com/aws-certified-developer-associate/learn/v4/overview
