@@ -40,7 +40,11 @@ Videos 7-11 are an overview of all the services provided by AWS.
 | |Database Migration Service| Database specific helper.|
 | |Server Migration Service| Helps Network and Server admins migrate from physical servers to AWS cloud solutions. |
 | |Snowball| This is a physical device that is sent if bandwidth or security issues prohibit large transfers of data.|
-
+|Network and Connection |VPC | Allows you to create a virtual network. |
+| |CloudFront | Content Delivery Service that allows your content to be scaled on all media devices.|
+| |Route 53 | Domain Name System|
+| |API Gateway | Allows devs. to monitor their APIs. |
+| |Direct Connect | Creates a dedicated connection from a local network to AWS.|
 
 ## Technologies Used
 Amazon Web Services
